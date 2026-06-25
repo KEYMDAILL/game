@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "volume": 0.1500000000000001,
+    "scanlines": true,
+    "screen_shake": true
+  },
+  "records": {
+    "01. Один замок": {
+      "best_time": 4.960000000000004,
+      "best_ghosts": 1,
+      "best_coins": 3,
+      "best_stars": 3
+    },
+    "02. Два поста": {
+      "best_time": 8.167000000000042,
+      "best_ghosts": 2,
+      "best_coins": 4,
+      "best_stars": 3
+    },
+    "03. Три ключа": {
+      "best_time": 17.921999999999755,
+      "best_ghosts": 4,
+      "best_coins": 5,
+      "best_stars": 1
+    },
+    "04. Идеальный архив": {
+      "best_time": null,
+      "best_ghosts": null,
+      "best_coins": 0,
+      "best_stars": 0
+    },
+    "УРОВЕНЬ 1": {
+      "best_time": 5.551000000000014,
+      "best_ghosts": 1,
+      "best_coins": 3,
+      "best_stars": 3
+    },
+    "УРОВЕНЬ 2": {
+      "best_time": 10.734999999999939,
+      "best_ghosts": 9,
+      "best_coins": 3,
+      "best_stars": 1
+    },
+    "УРОВЕНЬ 3": {
+      "best_time": null,
+      "best_ghosts": null,
+      "best_coins": 0,
+      "best_stars": 0
+    },
+    "УРОВЕНЬ 4": {
+      "best_time": null,
+      "best_ghosts": null,
+      "best_coins": 0,
+      "best_stars": 0
+    }
+  }
+}
